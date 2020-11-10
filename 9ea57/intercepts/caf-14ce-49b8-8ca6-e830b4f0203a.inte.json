@@ -1,58 +1,143 @@
 {
     "Ar36": {
-        "error": 0.00024474869024496934,
+        "error": 0.00012368589498381254,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 0.0033151980669079532
+        "fit": "Linear",
+        "fn": 170,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            69,
+            101,
+            165,
+            136,
+            13,
+            46,
+            178,
+            21,
+            93,
+            127
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.003264957467141177
     },
     "Ar37": {
-        "error": 0.004901880643744353,
+        "error": 0.004901880618524287,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "value": -0.020811315744833005
+        "fit": "Linear",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            4,
+            73,
+            169,
+            75,
+            155,
+            178,
+            91,
+            92
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.020811315446354874
     },
     "Ar38": {
-        "error": 0.004228951685548301,
+        "error": 0.004228951689380495,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "value": 0.03255250962476318
+        "fit": "Linear",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            0,
+            1,
+            142,
+            113,
+            51,
+            153,
+            154,
+            155
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.03255250913844947
     },
     "Ar39": {
-        "error": 0.017022463086834975,
+        "error": 0.008789016129099244,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 0.33929031732989756
+        "fit": "Linear",
+        "fn": 175,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            70,
+            7,
+            40,
+            122,
+            60
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.3332582661634088
     },
     "Ar40": {
-        "error": 0.01392048874631325,
+        "error": 0.014390841820079742,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 0.6531932528416415
+        "fit": "Linear",
+        "fn": 171,
+        "include_baseline_error": false,
+        "n": 180,
+        "outlier_excluded": [
+            96,
+            1,
+            2,
+            3,
+            105,
+            173,
+            176,
+            179,
+            62
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.9549056879540683
     },
     "Ar41": {
         "error": 0.04669936441940662,
